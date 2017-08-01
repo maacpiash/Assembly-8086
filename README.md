@@ -1,1 +1,2 @@
 "# CSE331 : Microprocessor Interfacing and Embedded Systems" 
+"# This branch consists of the Intel 8086 assembly language codes that were written for the lab. For the project, please switch to the branch master."
