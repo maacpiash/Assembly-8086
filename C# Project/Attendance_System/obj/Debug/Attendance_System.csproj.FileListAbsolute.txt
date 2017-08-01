@@ -1,9 +1,0 @@
-C:\Users\maacp\Desktop\Attendance_System\Attendance_System\bin\Debug\Attendance_System.exe.config
-C:\Users\maacp\Desktop\Attendance_System\Attendance_System\bin\Debug\Attendance_System.exe
-C:\Users\maacp\Desktop\Attendance_System\Attendance_System\bin\Debug\Attendance_System.pdb
-C:\Users\maacp\Desktop\Attendance_System\Attendance_System\obj\Debug\Attendance_System.csprojResolveAssemblyReference.cache
-C:\Users\maacp\Desktop\Attendance_System\Attendance_System\obj\Debug\Attendance_System.Properties.Resources.resources
-C:\Users\maacp\Desktop\Attendance_System\Attendance_System\obj\Debug\Attendance_System.csproj.GenerateResource.Cache
-C:\Users\maacp\Desktop\Attendance_System\Attendance_System\obj\Debug\Attendance_System.exe
-C:\Users\maacp\Desktop\Attendance_System\Attendance_System\obj\Debug\Attendance_System.pdb
-C:\Users\maacp\Desktop\Attendance_System\Attendance_System\obj\Debug\Attendance_System.View.Form2.resources
